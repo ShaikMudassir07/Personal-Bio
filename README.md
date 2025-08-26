@@ -2,7 +2,7 @@
 
 👨‍💻 **Software Developer** | 📊 **Data Analyst** | 🤖 **AI/ML Enthusiast**  
 
-💻 Skilled in **Python, Django,JS, React, SQL, Excel ,Tableau & Power BI**  
+💻 Skilled in **Python, Django, JS, React, SQL, Excel ,Tableau & Power BI**  
 📊 Turning raw data into **insights** & building **scalable web apps**  
 🤖 Exploring **AI, Machine Learning & Deep Learning** to solve real-world problems  
 🚀 Passionate about **clean code, automation & open-source collaboration**  
