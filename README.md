@@ -2,15 +2,13 @@
 
 👨‍💻 **Software Developer** | 📊 **Data Analyst** | 🤖 **AI/ML Enthusiast**  
 
-💻 Skilled in **Python, Django, React, SQL, Excel & Power BI**  
+💻 Skilled in **Python, Django,JS, React, SQL, Excel ,Tableau & Power BI**  
 📊 Turning raw data into **insights** & building **scalable web apps**  
 🤖 Exploring **AI, Machine Learning & Deep Learning** to solve real-world problems  
 🚀 Passionate about **clean code, automation & open-source collaboration**  
 🌱 Currently learning **Flask, MLOps & advanced data visualization**  
 
 ---
-
-## 🚀 Skills & Tools  
 ## 🚀 Skills & Tools  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
