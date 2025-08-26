@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Shaik Mudassir]  
+# 👋 Hi, I'm Shaik Mudassir 
 
 👨‍💻 **Software Developer** | 📊 **Data Analyst** | 🤖 **AI/ML Enthusiast**  
 
